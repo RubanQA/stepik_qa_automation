@@ -1,1 +1,1 @@
-# group_22
+# My homework at Vadim Ksendzov course

@@ -1,0 +1,14 @@
+1. Отобразить подключённый девайс в консоли. 
+./adb devices -l
+List of devices attached
+eb3f1b9 device product:lavender model:Redmi_Note_7 device:lavender transport_id:1
+2. Вывести адрес приложения todolist в системе Android
+$ pm list packages | grep todolist
+package:com.android.todolist
+3. Установить .apk файл приложениия todolist на телефон с компьютера через  ADB
+./adb install d:\qa\todolist.apk
+4. Сделать скриншот запущенного приложения todolist и сразу скопировать на компьютер в одной команде.
+
+5. Вывести в консоль логи приложения todolist
+6. Скопировать логи приложения todolist на компьютер.
+7. Удалить приложение todolist с телефона через ADB
