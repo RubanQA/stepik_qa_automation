@@ -1,4 +1,3 @@
-Home work for GitHub )
 1. На локальном репозитории сделать ветки для:
 - Postman - get branch Postman
 - Jmeter - get branch Jmeter
@@ -17,4 +16,3 @@ Home work for GitHub )
 8. Запушить структуру на внешний репозиторий - git push
 9. На внешнем репозитории сделать Pull Request ветки CheckLists в main - На внешнем репозитории выбрать раздел с ветками, нпротив ветки CheckList нажать New pull request
 10. Синхронизировать Внешнюю и Локальную ветки Main - git switch main , git pull
-
