@@ -1,1 +1,1 @@
-# My homework at Vadim Ksendzov course
+# learn_test_automation
