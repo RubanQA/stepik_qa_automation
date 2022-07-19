@@ -1,1 +1,1 @@
-# learn_test_automation
+# stepik_autotest_course
