@@ -1,1 +1,2 @@
-# stepik_test_automation_course
+# Stepik test automation with Python course
+https://stepik.org/course/575/syllabus
